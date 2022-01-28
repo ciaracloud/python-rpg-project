@@ -2,7 +2,7 @@
 
 Welcome to my first RPG project made in python! Follow instructions below to play:
 
-### INSTALL PYTHON ON MAC:
+INSTALL PYTHON ON MAC:
 
 - Install python on your computer via Homebrew. To install Homebrew, open your terminal and paste the text below into your terminal and press enter.
 
