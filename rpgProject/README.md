@@ -1,4 +1,4 @@
-# My First RPG Project
+# Interior Battle
 
 Welcome to my first RPG project made in python! Follow instructions below to play:
 
